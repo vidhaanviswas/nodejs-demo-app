@@ -46,20 +46,3 @@ a containerized Node.js application using **GitHub Actions** and **Docker**.
 ---
 
 ## 🗂️ Repository Structure
-
-nodejs-demo-app/
-├── .github/
-│ └── workflows/
-│ └── main.yml # CI/CD workflow configuration
-│
-├── Dockerfile # Docker image build instructions
-├── index.js # Node.js web server
-├── package.json # Project metadata and scripts
-├── test.js # Basic test for CI
-├── README.md # Project documentation
-├── .gitignore # Ignore node_modules, logs, etc.
-└── screenshots/ # Screenshot folder for report
-├── docker-ss.png
-├── workflow-ss.png
-├── vscode-ss.png
-└── livepage-ss.png
