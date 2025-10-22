@@ -86,9 +86,9 @@ Through this task, I learned:
 
 ## ✨ Author
 
-Name: Vidhaan Viswas
-Course: B.Tech – Computer Science (Final Year)
-Task: DevOps — Automate Code Deployment using CI/CD (GitHub Actions)
+Name: Vidhaan Viswas \n
+Course: B.Tech – Computer Science (Final Year) \n
+Task: DevOps — Automate Code Deployment using CI/CD (GitHub Actions) \n
 Date: October 2025
 
 ---
