@@ -6,7 +6,7 @@
   </a>
 
   <!-- Docker Image Pulls -->
-  <a href="https://hub.docker.com/r/vidhaanviswas/nodejs-demo-app">
+  <a href="https://hub.docker.com/r/pes1ug23cs835/nodejs-demo-app">
     <img src="https://img.shields.io/docker/pulls/pes1ug23cs835/nodejs-demo-app" alt="Docker Pulls" />
   </a>
 
@@ -26,22 +26,30 @@
 <div align="center">
 
 # 🚀 Automating Code Deployment using CI/CD  
-### GitHub Actions + Docker + DockerHub
+### *GitHub Actions × Docker × DockerHub*
 
-A complete DevOps pipeline that automatically tests, builds, and deploys  
-a containerized Node.js application using **GitHub Actions** and **Docker**.
+A complete **DevOps pipeline** that automatically *tests, builds, and deploys*  
+a containerized **Node.js application** using **GitHub Actions** and **Docker**.
 
 </div>
 
 ---
 
-## 🧠 Overview
+## 🧠 Project Overview
 
+This project demonstrates how to automate software deployment using a modern DevOps workflow.  
+Every push to the `main` branch triggers a **CI/CD pipeline** that:
+
+1. Runs automated tests  
+2. Builds a Docker image  
+3. Pushes the image to **DockerHub**  
+
+**Key Technologies:**
 - **Language:** Node.js  
 - **Containerization:** Docker  
-- **CI/CD Tool:** GitHub Actions  
+- **Automation:** GitHub Actions  
 - **Registry:** DockerHub  
-- **Objective:** Automate testing, building, and deployment of a Docker image for every code push.  
+- **Objective:** Continuous Integration & Continuous Deployment of containerized apps
 
 ---
 
@@ -86,9 +94,9 @@ Through this task, I learned:
 
 ## ✨ Author
 
-Name: Vidhaan Viswas \n
-Course: B.Tech – Computer Science (Final Year) \n
-Task: DevOps — Automate Code Deployment using CI/CD (GitHub Actions) \n
+Name: Vidhaan Viswas
+Course: B.Tech – Computer Science (Final Year)
+Task: DevOps — Automate Code Deployment using CI/CD (GitHub Actions)
 Date: October 2025
 
 ---
