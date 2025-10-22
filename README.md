@@ -7,7 +7,7 @@
 
   <!-- Docker Image Pulls -->
   <a href="https://hub.docker.com/r/vidhaanviswas/nodejs-demo-app">
-    <img src="https://img.shields.io/docker/pulls/vidhaanviswas/nodejs-demo-app" alt="Docker Pulls" />
+    <img src="https://img.shields.io/docker/pulls/pes1ug23cs835/nodejs-demo-app" alt="Docker Pulls" />
   </a>
 
   <!-- Docker Image Version -->
