@@ -45,4 +45,29 @@ a containerized Node.js application using **GitHub Actions** and **Docker**.
 
 ---
 
-## 🗂️ Repository Structure
+## ⚙️ Step-by-Step Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/vidhaanviswas/nodejs-demo-app.git
+cd nodejs-demo-app
+
+---
+
+## 🌱 What I Learned
+
+Through this task, I learned:
+
+- 🔁 How CI/CD automates software delivery using GitHub Actions.
+
+- 🐳 How to containerize applications with Docker.
+
+- 🔐 How to securely manage credentials with GitHub Secrets.
+
+- ⚙️ How to troubleshoot WSL and Docker Desktop issues.
+
+- 🚀 How to design reliable pipelines that build and push images automatically.
+
+- 💡 The DevOps mindset — continuous integration, testing, and deployment.
+
+---
