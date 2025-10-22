@@ -1,13 +1,13 @@
 <p align="center">
 
   <!-- GitHub Actions Build Status -->
-  <a href="https://github.com/<your-username>/nodejs-demo-app/actions">
-    <img src="https://github.com/<your-username>/nodejs-demo-app/actions/workflows/main.yml/badge.svg" alt="CI/CD Status" />
+  <a href="https://github.com/vidhaanviswas/nodejs-demo-app/actions">
+    <img src="https://github.com/vidhaanviswas/nodejs-demo-app/actions/workflows/main.yml/badge.svg" alt="CI/CD Status" />
   </a>
 
   <!-- Docker Image Pulls -->
-  <a href="https://hub.docker.com/r/<your-username>/nodejs-demo-app">
-    <img src="https://img.shields.io/docker/pulls/<your-username>/nodejs-demo-app" alt="Docker Pulls" />
+  <a href="https://hub.docker.com/r/vidhaanviswas/nodejs-demo-app">
+    <img src="https://img.shields.io/docker/pulls/vidhaanviswas/nodejs-demo-app" alt="Docker Pulls" />
   </a>
 
   <!-- Docker Image Version -->
