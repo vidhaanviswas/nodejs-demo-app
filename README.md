@@ -1,1 +1,65 @@
-# nodejs-demo-app
+<p align="center">
+
+  <!-- GitHub Actions Build Status -->
+  <a href="https://github.com/<your-username>/nodejs-demo-app/actions">
+    <img src="https://github.com/<your-username>/nodejs-demo-app/actions/workflows/main.yml/badge.svg" alt="CI/CD Status" />
+  </a>
+
+  <!-- Docker Image Pulls -->
+  <a href="https://hub.docker.com/r/<your-username>/nodejs-demo-app">
+    <img src="https://img.shields.io/docker/pulls/<your-username>/nodejs-demo-app" alt="Docker Pulls" />
+  </a>
+
+  <!-- Docker Image Version -->
+  <a href="https://hub.docker.com/r/<your-username>/nodejs-demo-app/tags">
+    <img src="https://img.shields.io/docker/v/<your-username>/nodejs-demo-app/latest" alt="Docker Image Version" />
+  </a>
+
+  <!-- Node.js Version -->
+  <img src="https://img.shields.io/badge/Node.js-18.x-green" alt="Node.js Version" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
+
+</p>
+
+<div align="center">
+
+# 🚀 Automating Code Deployment using CI/CD  
+### GitHub Actions + Docker + DockerHub
+
+A complete DevOps pipeline that automatically tests, builds, and deploys  
+a containerized Node.js application using **GitHub Actions** and **Docker**.
+
+</div>
+
+---
+
+## 🧠 Overview
+
+- **Language:** Node.js  
+- **Containerization:** Docker  
+- **CI/CD Tool:** GitHub Actions  
+- **Registry:** DockerHub  
+- **Objective:** Automate testing, building, and deployment of a Docker image for every code push.  
+
+---
+
+## 🗂️ Repository Structure
+
+nodejs-demo-app/
+├── .github/
+│ └── workflows/
+│ └── main.yml # CI/CD workflow configuration
+│
+├── Dockerfile # Docker image build instructions
+├── index.js # Node.js web server
+├── package.json # Project metadata and scripts
+├── test.js # Basic test for CI
+├── README.md # Project documentation
+├── .gitignore # Ignore node_modules, logs, etc.
+└── screenshots/ # Screenshot folder for report
+├── docker-ss.png
+├── workflow-ss.png
+├── vscode-ss.png
+└── livepage-ss.png
