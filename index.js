@@ -9,3 +9,5 @@ const server = http.createServer((req, res) => {
 server.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
+
+module.exports = server; // <— so test.js can close it
