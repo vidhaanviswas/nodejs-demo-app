@@ -5,7 +5,7 @@ try {
     console.log('✅ index.js exists — basic test passed.');
     process.exit(0);
   } else {
-    console.error('❌ index.js not found!');
+    console.error('❌ index.js not found in dir!');
     process.exit(1);
   }
 } catch (err) {
