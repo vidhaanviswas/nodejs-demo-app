@@ -104,13 +104,15 @@ Through this task, I learned:
 
 ---
 
-## ✨ Author
+## 👨‍💻 Author
 
-Name: Vidhaan Viswas
-Course: B.Tech – Computer Science (Final Year)
-Task: DevOps — Automate Code Deployment using CI/CD (GitHub Actions)
-Date: October 2025
+**Name:** Vidhaan Viswas  
+**Course:** B.Tech – Computer Science (Final Year)  
+**Task:** _DevOps — Automate Code Deployment using CI/CD (GitHub Actions)_  
+**Date:** October 2025  
 
 ---
 
-<p align="center"> <i>"Automation is not just efficiency — it's consistency, reliability, and confidence in every deployment."</i> </p> ```
+<p align="center"> <i>"Automation is not just efficiency — it's consistency, reliability, and confidence in every deployment."</i> </p>
+
+---
