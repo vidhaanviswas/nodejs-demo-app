@@ -47,7 +47,7 @@ a containerized Node.js application using **GitHub Actions** and **Docker**.
 
 ## ⚙️ Step-by-Step Setup
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/vidhaanviswas/nodejs-demo-app.git
 ```
@@ -71,5 +71,24 @@ Through this task, I learned:
 - 🚀 How to design reliable pipelines that build and push images automatically.
 
 - 💡 The DevOps mindset — continuous integration, testing, and deployment.
+
+---
+
+## 🏁 Final Outcome
+
+- ✅ CI/CD pipeline triggered automatically on push
+- ✅ All test & build stages passed
+- ✅ Docker image built and pushed to DockerHub
+- ✅ Application verified running locally in container
+- ✅ Documented with screenshots and explanations
+
+---
+
+## ✨ Author
+
+Name: Vidhaan Viswas
+Course: B.Tech – Computer Science (Final Year)
+Task: DevOps — Automate Code Deployment using CI/CD (GitHub Actions)
+Date: October 2025
 
 ---
