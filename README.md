@@ -64,6 +64,18 @@ cd nodejs-demo-app
 ```
 ---
 
+## 📸 Screenshots
+
+| Screenshot                                                            | Description                                   |
+| --------------------------------------------------------------------- | --------------------------------------------- |
+| ![GitHub Actions Success](./screenshots/workflow-ss.png)   | Successful CI/CD pipeline run                 |
+| ![DockerHub Repository](./screenshots/docker-ss.png)             | Image uploaded to DockerHub                   |
+| ![App Running](./screenshots/livepage-ss.png)                         | Application running locally from Docker image |
+| ![Docker Desktop WSL Update](./screenshots/vscode-ss.png) |  VS Code execution             |
+
+
+---
+
 ## 🌱 What I Learned
 
 Through this task, I learned:
@@ -100,3 +112,5 @@ Task: DevOps — Automate Code Deployment using CI/CD (GitHub Actions)
 Date: October 2025
 
 ---
+
+<p align="center"> <i>"Automation is not just efficiency — it's consistency, reliability, and confidence in every deployment."</i> </p> ```
