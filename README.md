@@ -50,8 +50,10 @@ a containerized Node.js application using **GitHub Actions** and **Docker**.
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/vidhaanviswas/nodejs-demo-app.git
+```
+```bash
 cd nodejs-demo-app
-
+```
 ---
 
 ## 🌱 What I Learned
