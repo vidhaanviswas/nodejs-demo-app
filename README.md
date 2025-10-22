@@ -11,8 +11,8 @@
   </a>
 
   <!-- Docker Image Version -->
-  <a href="https://hub.docker.com/r/<your-username>/nodejs-demo-app/tags">
-    <img src="https://img.shields.io/docker/v/<your-username>/nodejs-demo-app/latest" alt="Docker Image Version" />
+  <a href="https://hub.docker.com/r/pes1ug23cs835/nodejs-demo-app/tags">
+    <img src="https://img.shields.io/docker/v/pes1ug23cs835/nodejs-demo-app/latest" alt="Docker Image Version" />
   </a>
 
   <!-- Node.js Version -->
